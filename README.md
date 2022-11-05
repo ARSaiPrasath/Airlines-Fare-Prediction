@@ -12,12 +12,12 @@ The Code is written in Python 3.9.6. If you don't have Python installed you can 
 pip install -r requirements.txt
 
 Technologies Used:
-Python
-sckikit-learn
-Flask
-HTML, CSS
+Python,
+sckikit-learn,
+Flask,
+HTML, CSS and
 JavaScript
 
 Future Scope:
-We can use multiple algorithms
+We can use multiple algorithms and
 Optimize Flask app app.py
